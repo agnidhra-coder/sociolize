@@ -38,7 +38,7 @@ The app follows a layered architecture:
 1.  **Clone the repository:**
 
     ```
-    git clone <repository_url>
+    git clone "https://github.com/agnidhra-coder/sociolize"
     cd sociolize
     ```
 
